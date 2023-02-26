@@ -1,2 +1,2 @@
-# weather-appp
-weather app
+# WeatherApp
+Weather app!

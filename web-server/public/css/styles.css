@@ -1,0 +1,50 @@
+body {
+    padding: 0 16px;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* content lines 9-16*/
+.main-content {
+    flex-grow: 1;
+}
+
+.main-content p {
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+/* form on index page */
+form {
+    max-width: 650px;
+}
+
+/* footer partials */
+footer {
+    color: #888888;
+    border-top: 1px solid #eeeeee;
+    margin-top: 16px;
+    padding: 16px 0;
+}
+
+/* header partials:lines 32-39 */
+header {
+    margin-top: 16px;
+    margin-bottom: 80px;
+}
+
+header a {
+    margin-right: 16px;
+}
+
+/* images: lines 42-50*/
+.indexPortrait {
+    margin-left:15px;
+    width: 200px;
+} 
+
+.aboutPortrait {
+    margin-left:15px;
+    width: 336px;
+} 
